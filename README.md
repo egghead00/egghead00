@@ -1,8 +1,3 @@
-<head>
-  <title>Pogchamp</title>
-</head>
-
-
 - 👋 Hi, I’m @egghead00
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
