@@ -1,4 +1,5 @@
 <head>
+  <title>Pogchamp</title>
 </head>
 
 
